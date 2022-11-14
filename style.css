@@ -108,7 +108,24 @@
     transition: 0.3s;
     border-radius: 0;
   }
-  
   .addBtn:hover {
+    background-color: #bbb;
+  }
+  
+  /* Style the "Add" button */
+  .sortBtn {
+    padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+  }
+
+  .sortBtn:hover {
     background-color: #bbb;
   }
